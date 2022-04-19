@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.exe
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.deps.json
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.runtimeconfig.json
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.dll
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\ref\Haftanıngünleri.dll
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\bin\Debug\net5.0\Haftanıngünleri.pdb
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.dll
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\ref\Haftanıngünleri.dll
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.pdb
+C:\Users\Asus\source\repos\Ödev1804\Haftanıngünleri\obj\Debug\net5.0\Haftanıngünleri.genruntimeconfig.cache
